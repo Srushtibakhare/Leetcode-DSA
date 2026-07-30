@@ -15,7 +15,6 @@ public:
         return ans;
     }
 };
-
 int main() {
 
     Solution obj;
